@@ -1,0 +1,59 @@
+## Basic Configuration
+
+baseurl = "https://davidor.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "David Ortiz"
+title = "David Ortiz"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+#googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "David Ortiz"
+intro = "Software Engineer"
+description = "Now working at [Red Hat](https://www.redhat.com)"
+#authorimage = "picture.png"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "David Ortiz"
+keywords = "david ortiz"
+
+## Social Accounts
+[params.social]
+github = "davidor"
+#instagram = "<username>"
+#xing = "<username>"
+linkedin = "davidortizlo"
+twitter = "david_ortizl"
+#facebook = "<username>"
+#google = "<username>"
+#stackoverflow = "<username>"
+email = "z.david.ortiz@gmail.com"
+
+## Extras
+[params.extra]
+copyright = ""
+poweredby = true
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "open source projects"
+    weight = 100
+    identifier = "projects"
+    url = "/projects/"
+
