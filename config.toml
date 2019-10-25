@@ -49,6 +49,7 @@ email = "z.david.ortiz@gmail.com"
 copyright = ""
 poweredby = true
 highlightjs = true
+displayrssicon = false
 
 ## Main Menu
 [[menu.main]]
