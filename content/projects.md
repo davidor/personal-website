@@ -11,10 +11,12 @@ I am one of the main contributors of these projects:
 - [apicast-xc](https://github.com/3scale/apicast-xc): apicast module that provides high volume and lower latency
 - [apisonator](https://github.com/3scale/apisonator): 3scale backend
 - [ascetic](https://github.com/ascetictoolbox/ascetictoolbox): optimizing energy efficiency in cloud computing environments
+- [async-redis](https://github.com/socketry/async-redis): async redis client for ruby
 - [clopla](https://github.com/davidor/clopla): virtual machine placement optimizer
 - [demiurge](https://github.com/mariomac/demiurge): IaaS computing resources manager
 - [effectivejava](https://github.com/ftomassetti/effectivejava): code analyzer. Checks practices suggested in "Effective Java"
 - [formula1-lap-charts](https://github.com/davidor/formula1-lap-charts): lap chart visualization of Formula 1 races
+- [kourier](https://github.com/3scale/kourier): ingress for Knative
 - [pandora](https://github.com/xrubio/pandora): agent-based modelling framework for large-scale simulations
 - [pisoni](https://github.com/3scale/pisoni): client for the apisonator internal API to push model data
 - [xcflushd](https://github.com/3scale/xcflushd): daemon to flush data cached by apicast-xc
@@ -27,7 +29,6 @@ I have submitted patches to these projects:
 
 - [3scale-time-range](https://github.com/3scale/3scale_time_range): tool for working with time ranges
 - [3scale-wildcard-router](https://github.com/3scale/wildcard-router-service): wildcard router for 3scale
-- [async-redis](https://github.com/socketry/async-redis): async redis client for ruby
 - [lua-resty-execvp](https://github.com/3scale/lua-resty-execvp): lua FFI wrapper for the execvp syscall
 - [jaeger-client-ruby](https://github.com/salemove/jaeger-client-ruby): ruby Jaeger client
 - [test-apicast](https://github.com/3scale/Test-APIcast): apicast test framework
